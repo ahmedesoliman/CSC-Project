@@ -60,8 +60,7 @@ def main():
 #calling main()
 main()
 
-
-Second answer
+#Second answer
 # data1 = []
 # try:
 #   myfile = open("info.txt")
