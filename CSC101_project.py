@@ -1,7 +1,5 @@
 '''
-Final Project - CSC 101 0502[66785] (Borough of Manhattan CC)
-
-Student Name - Ahmed Soliman
+Project to remove new line caracters from a list
 '''
 #method to remove '\n' characters from a list
 def remove_new_line_char_from_list(data):
